@@ -20,7 +20,7 @@ __CreditNinja__ - _DevOps Engineer_
 - CI/CD pipeline support and update
 - Create Ansible playbooks to automate everyday activities
 - Create internal tooling apps
-- Keeping documentation up-to-date
+- Create documentation pages
 
 `11/2016 – 07/2020`  
 __Cloudmade__ - _Operations Engineer_  
