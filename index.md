@@ -10,36 +10,38 @@ LinkedIn: [alexey-kolychev](https://www.linkedin.com/in/alexey-kolychev/)
 - English – B1/B2
 
 ## Summary
-Cloud(DevOps) Engineer specializing in infrastructure management. I have had a great experience to work with various technologies from embedded devices to cloud providers.
+Cloud(DevOps) Engineer specializing in infrastructure management. I have had a great chance to work with various technologies from embedded devices to cloud providers.
 
 ## Occupation
-`11/2016 – 07/2020`  
+`10/2020 – present`  
 __CreditNinja__ - _DevOps Engineer_  
   
-- Infrastructure management and automation
-- CI/CD configuration
-- Hadoop Cluster(s) maintenance and configuration
+- Infrastructure management and automation (AWS)
+- CI/CD pipeline support and update
+- Create Ansible playbooks to automate everyday activities
+- Create internal tooling like jira-to-slack notifier
 
 `11/2016 – 07/2020`  
 __Cloudmade__ - _Operations Engineer_  
  
 - Infrastructure management and automation
 - CI/CD configuration
+- Create Ansible playbooks
 - Hadoop Cluster(s) maintenance and configuration
 
 `04/2015 - 10/2016`  
 __OpSpace__  - _DevOps Engineer_  
   
-- Servers monitoring (Nagios/monit);
-- Work with cloud platforms and virtualization technologies;
-- Bash/Python scripting (collecting system info, data backup);
+- Servers monitoring (Nagios/monit)
+- Work with cloud platforms and virtualization technologies
+- Bash/Python scripting (collecting system info, data backup)
 - Network configuration (firewall setup, DNS configuration, troubleshooting etc)
 
 `02/2014 - 10/2014`  
 __CloneFish__ - _Junior System Administrator_  
 
-- Call-center support;
-- Linux/Windows troubleshooting and configuration;
+- Call-center support
+- Linux/Windows troubleshooting and configuration
 - Setup and maintain PBX Asterisk for Call-center
 
 ## Education
@@ -57,21 +59,17 @@ https://courses.prometheus.org.ua:18090/cert/3d41c3ae34224f44bb2884da33e0c048
 - Collaborative
 - Problem-solving
 - Analytical thinking
-- Stress-resistant 
+- Stress-resistant
 
 ## Hard Skills
-- Linux: Debian/CentOS/Ubuntu Server, Arch;
-- Cloud: AWS; Digital Ocean
-- CI/CD: Jenkins; Gitlab-CI, CircleCI
+- Linux: Debian/CentOS/Ubuntu Server, Arch
+- Cloud: AWS, Digital Ocean
+- CI/CD: Jenkins, Gitlab-CI, CircleCI
 - Databases: MySQL/PostgreSQL, MongoDB/Redis
-- Logging: ELK, Datadog;
-- IaaC: Terraform;
-- Сonfiguration management: Ansible, Saltstack; 
-- Containerization: Docker; ECS
-- Monitoring: TICK stack; Datadog
-- Version Control: Git;
+- Logging: ELK, Datadog
+- IaaC: Terraform
+- Сonfiguration management: Ansible, Saltstack
+- Containerization: Docker, ECS
+- Monitoring: TICK stack, Datadog
+- Version Control: Git
 - Scripting: Bash, Python, Go
-
-<!-- ### Footer
-
-Last updated: April 2021 -->
