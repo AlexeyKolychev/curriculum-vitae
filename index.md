@@ -1,3 +1,8 @@
+---
+layout: cv
+title: Oleksii Kolychev's CV
+---
+
 # OLEKSII KOLYCHEV  
 ### Cloud/DevOps Engineer
 Kyiv, Ukraine  
@@ -12,7 +17,7 @@ LinkedIn: [alexey-kolychev](https://www.linkedin.com/in/alexey-kolychev/)
 ## Summary
 Cloud(DevOps) Engineer specializing in infrastructure management. I have had a great chance to work with various technologies from embedded devices to cloud providers.
 
-## Occupation
+## Experience
 `10/2020 – present`  
 __CreditNinja__ - _DevOps Engineer_  
   
@@ -20,7 +25,7 @@ __CreditNinja__ - _DevOps Engineer_
 - CI/CD pipeline support and update
 - Create Ansible playbooks to automate everyday activities
 - Create internal tooling apps
-- Create documentation pages
+- Write documentation pages
 
 `11/2016 – 07/2020`  
 __Cloudmade__ - _Operations Engineer_  
@@ -40,10 +45,6 @@ __OpSpace__  - _DevOps Engineer_
 
 `02/2014 - 10/2014`  
 __CloneFish__ - _Junior System Administrator_  
-
-- Call-center support
-- Linux/Windows troubleshooting and configuration
-- Setup and maintain PBX Asterisk for Call-center
 
 ## Education
 `2010-2016`  
@@ -74,3 +75,7 @@ https://courses.prometheus.org.ua:18090/cert/3d41c3ae34224f44bb2884da33e0c048
 - Monitoring: TICK stack, Datadog
 - Version Control: Git
 - Scripting: Bash, Python, Go
+
+<!-- ### Footer
+
+Last updated: April 2021 -->
