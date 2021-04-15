@@ -19,7 +19,8 @@ __CreditNinja__ - _DevOps Engineer_
 - Infrastructure management and automation (AWS)
 - CI/CD pipeline support and update
 - Create Ansible playbooks to automate everyday activities
-- Create internal tooling like jira-to-slack notifier
+- Create internal tooling apps
+- Keeping documentation up-to-date
 
 `11/2016 – 07/2020`  
 __Cloudmade__ - _Operations Engineer_  
