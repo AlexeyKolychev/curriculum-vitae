@@ -17,6 +17,25 @@ LinkedIn: [alexey-kolychev](https://www.linkedin.com/in/alexey-kolychev/)
 ## Summary
 Cloud(DevOps) Engineer specializing in infrastructure management. I have had a great chance to work with various technologies from embedded devices to cloud providers.
 
+## Soft Skills
+- Collaborative
+- Problem-solving
+- Analytical thinking
+- Stress-resistant
+
+## Hard Skills
+- Linux: Debian/CentOS/Ubuntu Server, Arch
+- Cloud: AWS, Digital Ocean
+- CI/CD: Jenkins, Gitlab-CI, CircleCI
+- Databases: MySQL/PostgreSQL, MongoDB/Redis
+- Logging: ELK, Datadog
+- IaaC: Terraform
+- Сonfiguration management: Ansible, Saltstack
+- Containerization: Docker, ECS
+- Monitoring: TICK stack, Datadog
+- Version Control: Git
+- Scripting: Bash, Python, Go
+
 ## Experience
 `10/2020 – present`  
 __CreditNinja__ - _DevOps Engineer_  
@@ -56,25 +75,6 @@ __Igor Sikorsky Kyiv Polytechnic Institute, Faculty Of Electronics__
 ## Certifications
 - Python Basics [ukrainian only]
 https://courses.prometheus.org.ua:18090/cert/3d41c3ae34224f44bb2884da33e0c048
-
-## Soft Skills
-- Collaborative
-- Problem-solving
-- Analytical thinking
-- Stress-resistant
-
-## Hard Skills
-- Linux: Debian/CentOS/Ubuntu Server, Arch
-- Cloud: AWS, Digital Ocean
-- CI/CD: Jenkins, Gitlab-CI, CircleCI
-- Databases: MySQL/PostgreSQL, MongoDB/Redis
-- Logging: ELK, Datadog
-- IaaC: Terraform
-- Сonfiguration management: Ansible, Saltstack
-- Containerization: Docker, ECS
-- Monitoring: TICK stack, Datadog
-- Version Control: Git
-- Scripting: Bash, Python, Go
 
 <!-- ### Footer
 
